@@ -1,0 +1,1 @@
+export const qW = (gitData) => [...gitData]
